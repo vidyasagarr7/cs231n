@@ -1,1 +1,3 @@
-# cs231n
+# cs231n 
+
+Stanford CNN course 
